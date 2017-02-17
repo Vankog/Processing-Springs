@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ProcessingLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Processing Libraries v. 3.3/core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Processing Libraries v. 3.3/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Processing Libraries v. 3.3/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Processing Libraries v. 3.3/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Processing Libraries v. 3.3/jogl-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
